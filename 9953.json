@@ -1,0 +1,8 @@
+{
+  "cid": 9953,
+  "FAQ": [
+    "「<a href=\"faq_search.action?ope=4&cid=9953\">王宮の牢獄</a>」の効果が適用されている間、「<a href=\"faq_search.action?ope=4&cid=4842\">死者蘇生</a>」や「<a href=\"faq_search.action?ope=4&cid=4989\">リビングデッドの呼び声</a>」等を発動する事ができなくなります。",
+    "ダメージステップ中に「<a href=\"faq_search.action?ope=4&cid=9953\">王宮の牢獄</a>」を発動する事はできません。また、既に表側表示で存在する場合は、ダメージステップ中でも「<a href=\"faq_search.action?ope=4&cid=9953\">王宮の牢獄</a>」の効果が適用されます"
+  ],
+  "pendulumFAQ": []
+}
