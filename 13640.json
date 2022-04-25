@@ -1,10 +1,15 @@
 {
   "cid": 13640,
-  "FAQ": [
-    "『①：このカードはモンスターゾーンに存在する限り、カード名を「<a href=\"faq_search.action?ope=4&cid=4747\">ロード・オブ・ドラゴン－ドラゴンの支配者－</a>」として扱う』モンスター効果は永続効果です。",
-    "『②：このカードが召喚に成功した時、手札から魔法・罠カード１枚を捨てて発動できる。デッキから「<a href=\"faq_search.action?ope=4&cid=4810\">ドラゴンを呼ぶ笛</a>」「<a href=\"faq_search.action?ope=4&cid=7508\">ドラゴン・目覚めの旋律</a>」「<a href=\"faq_search.action?ope=4&cid=13642\">ドラゴン・復活の狂奏</a>」のいずれか１枚を手札に加える』モンスター効果は誘発効果です。（対象を取る効果ではありません。）",
-    "『デッキから「<a href=\"faq_search.action?ope=4&cid=4810\">ドラゴンを呼ぶ笛</a>」「<a href=\"faq_search.action?ope=4&cid=7508\">ドラゴン・目覚めの旋律</a>」「<a href=\"faq_search.action?ope=4&cid=13642\">ドラゴン・復活の狂奏</a>」のいずれか１枚を手札に加える』モンスター効果を発動する際に、コストとして、自分の手札の魔法・罠カード1枚を墓地へ送ります。",
-    "チェーン2以降に発動した「<a href=\"faq_search.action?ope=4&cid=4851\">血の代償</a>」の効果によって召喚に成功した場合には、『デッキから「<a href=\"faq_search.action?ope=4&cid=4810\">ドラゴンを呼ぶ笛</a>」「<a href=\"faq_search.action?ope=4&cid=7508\">ドラゴン・目覚めの旋律</a>」「<a href=\"faq_search.action?ope=4&cid=13642\">ドラゴン・復活の狂奏</a>」のいずれか１枚を手札に加える』モンスター効果を発動する事はできません。"
-  ],
+  "FAQ": {
+    "": [],
+    "1": [
+      "『①：このカードはモンスターゾーンに存在する限り、カード名を「<a href=\"faq_search.action?ope=4&cid=4747\">ロード・オブ・ドラゴン－ドラゴンの支配者－</a>」として扱う』モンスター効果は永続効果です。"
+    ],
+    "2": [
+      "『②：このカードが召喚に成功した時、手札から魔法・罠カード１枚を捨てて発動できる。デッキから「<a href=\"faq_search.action?ope=4&cid=4810\">ドラゴンを呼ぶ笛</a>」「<a href=\"faq_search.action?ope=4&cid=7508\">ドラゴン・目覚めの旋律</a>」「<a href=\"faq_search.action?ope=4&cid=13642\">ドラゴン・復活の狂奏</a>」のいずれか１枚を手札に加える』モンスター効果は誘発効果です。（対象を取る効果ではありません。）",
+      "『デッキから「<a href=\"faq_search.action?ope=4&cid=4810\">ドラゴンを呼ぶ笛</a>」「<a href=\"faq_search.action?ope=4&cid=7508\">ドラゴン・目覚めの旋律</a>」「<a href=\"faq_search.action?ope=4&cid=13642\">ドラゴン・復活の狂奏</a>」のいずれか１枚を手札に加える』モンスター効果を発動する際に、コストとして、自分の手札の魔法・罠カード1枚を墓地へ送ります。",
+      "チェーン2以降に発動した「<a href=\"faq_search.action?ope=4&cid=4851\">血の代償</a>」の効果によって召喚に成功した場合には、『デッキから「<a href=\"faq_search.action?ope=4&cid=4810\">ドラゴンを呼ぶ笛</a>」「<a href=\"faq_search.action?ope=4&cid=7508\">ドラゴン・目覚めの旋律</a>」「<a href=\"faq_search.action?ope=4&cid=13642\">ドラゴン・復活の狂奏</a>」のいずれか１枚を手札に加える』モンスター効果を発動する事はできません。"
+    ]
+  },
   "pendulumFAQ": []
 }
