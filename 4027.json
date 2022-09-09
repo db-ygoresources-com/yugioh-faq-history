@@ -1,8 +1,12 @@
 {
   "cid": 4027,
-  "FAQ": [
-    "『このカードと「<a href=\"faq_search.action?ope=4&cid=4023\">封印されし者の右足</a>」「<a href=\"faq_search.action?ope=4&cid=4024\">封印されし者の左足</a>」「<a href=\"faq_search.action?ope=4&cid=4025\">封印されし者の右腕</a>」「<a href=\"faq_search.action?ope=4&cid=4026\">封印されし者の左腕</a>」が手札に全て揃った時、自分はデュエルに勝利する』はモンスターの効果の扱いではありません。カードによって定められた勝利条件となります。",
-    "「封印されしエクゾディア」と、テキストに記された「<a href=\"faq_search.action?ope=4&cid=4024\">封印されし者の左足</a>」等が全て揃った際にチェーンブロックが作られる事はありません。（「<a href=\"faq_search.action?ope=4&cid=6217\">天罰</a>」等を発動する事はできません。）"
-  ],
+  "FAQ": {
+    "": [],
+    "0.5": [
+      "【『このカードと「<a href=\"faq_search.action?ope=4&cid=4025\">封印されし者の右腕</a>」「<a href=\"faq_search.action?ope=4&cid=4026\">封印されし者の左腕</a>」「<a href=\"faq_search.action?ope=4&cid=4023\">封印されし者の右足</a>」「<a href=\"faq_search.action?ope=4&cid=4024\">封印されし者の左足</a>」が手札に全て揃った時、自分はデュエルに勝利する』について】",
+      "効果として扱いません。このカードによって定められた勝利条件です。",
+      "この方法で勝利する際にチェーンブロックは作られません。"
+    ]
+  },
   "pendulumFAQ": []
 }
