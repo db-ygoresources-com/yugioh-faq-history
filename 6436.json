@@ -1,7 +1,11 @@
 {
   "cid": 6436,
-  "FAQ": [
-    "対象を取る効果ではありません。"
-  ],
-  "pendulumFAQ": []
+  "databaseDate": "2012-07-20",
+  "FAQ": {
+    "0": [
+      "対象を取る効果ではありません。"
+    ]
+  },
+  "pendulumFAQ": {},
+  "listedQAs": []
 }

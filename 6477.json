@@ -1,7 +1,11 @@
 {
   "cid": 6477,
-  "FAQ": [
-    "「E・HERO エッジマン」の効果は永続効果です。"
-  ],
-  "pendulumFAQ": []
+  "databaseDate": "2015-04-09",
+  "FAQ": {
+    "0": [
+      "「E・HERO エッジマン」の効果は永続効果です。"
+    ]
+  },
+  "pendulumFAQ": {},
+  "listedQAs": []
 }
