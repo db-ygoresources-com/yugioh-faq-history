@@ -1,12 +1,16 @@
 {
   "cid": 7107,
+  "databaseDate": "2022-04-29",
   "FAQ": {
-    "": [],
+    "0": [],
     "1": [
       "【①の効果について】",
       "手札で発動できる起動効果です。",
-      "この効果の処理時に、デッキから「<a href=\"faq_search.action?ope=4&cid=5387\">伝説の都 アトランティス</a>」を手札に加えます。（「<a href=\"faq_search.action?ope=4&cid=4340\">海</a>」「<a href=\"faq_search.action?ope=4&cid=10279\">忘却の都 レミューリア</a>」「<a href=\"faq_search.action?ope=4&cid=12970\">幻煌の都 パシフィス</a>」「<a href=\"faq_search.action?ope=4&cid=15293\">深海の都 マガラニカ</a>」を手札に加えることはできません。）"
+      "この効果の処理時に、デッキから「伝説の都 アトランティス」を手札に加えます。（「海」「忘却の都 レミューリア」「幻煌の都 パシフィス」「深海の都 マガラニカ」を手札に加えることはできません。）"
     ]
   },
-  "pendulumFAQ": []
+  "pendulumFAQ": {},
+  "listedQAs": [
+    22354
+  ]
 }
