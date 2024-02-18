@@ -1,7 +1,11 @@
 {
   "cid": 10944,
-  "FAQ": [
-    "「<a href=\"faq_search.action?ope=4&cid=10944\">神樹の守護獣－牙王</a>」の効果は永続効果です。"
-  ],
-  "pendulumFAQ": []
+  "databaseDate": "2013-11-15",
+  "FAQ": {
+    "0": [
+      "「神樹の守護獣－牙王」の効果は永続効果です。"
+    ]
+  },
+  "pendulumFAQ": {},
+  "listedQAs": []
 }
