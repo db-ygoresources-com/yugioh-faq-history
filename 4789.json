@@ -1,5 +1,11 @@
 {
   "cid": 4789,
-  "FAQ": [],
-  "pendulumFAQ": []
+  "databaseDate": "0000-00-00",
+  "FAQ": {},
+  "pendulumFAQ": {},
+  "listedQAs": [
+    15759,
+    16683,
+    22506
+  ]
 }
