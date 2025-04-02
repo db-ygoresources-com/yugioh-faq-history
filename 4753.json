@@ -1,7 +1,14 @@
 {
   "cid": 4753,
-  "databaseDate": "0000-00-00",
-  "FAQ": {},
+  "databaseDate": "2016-06-18",
+  "FAQ": {
+    "0": [
+      "「幻獣」モンスターです。"
+    ]
+  },
   "pendulumFAQ": {},
-  "listedQAs": []
+  "listedQAs": [
+    92,
+    21757
+  ]
 }
