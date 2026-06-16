@@ -1,7 +1,13 @@
 {
   "cid": 8418,
-  "databaseDate": "0000-00-00",
-  "FAQ": {},
+  "databaseDate": "2015-03-21",
+  "FAQ": {
+    "0": [
+      "「ランス・リンドブルム」の効果は永続効果です。"
+    ]
+  },
   "pendulumFAQ": {},
-  "listedQAs": []
+  "listedQAs": [
+    15759
+  ]
 }
